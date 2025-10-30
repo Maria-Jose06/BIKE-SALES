@@ -11,3 +11,6 @@ Designed an interactive Excel Dashboard that visualizes:
   Commute distance vs. likelihood of purchase
 
 Data Cleaning, Pivot Tables, Dashboard Design, Excel Analytics
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+
